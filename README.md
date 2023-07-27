@@ -1,4 +1,5 @@
-![image](https://github.com/Vinay-000/Digital_Wellbeing/assets/56780725/801ec0cd-f4fa-4cad-9967-875ebd5de36b)
+![image](https://github.com/Vinay-000/Digital_Wellbeing/assets/56780725/0c3f8b2f-cc4d-40d8-822b-d901109d3a43)
+
 
 
 # Digital Well-Being Analysis Project
@@ -15,9 +16,12 @@ The Digital Well-Being Analysis project aims to analyze the screen time data of 
 - Digital Habit Insights: Gain insights into daily screen time trends, app preferences, and peak usage periods.
 - Time Management Strategies: Implement practical strategies to optimize digital well-being based on the analysis.
 
-  ![image](https://github.com/Vinay-000/Digital_Wellbeing/assets/56780725/abbea0f6-bd53-4153-9ee9-514d10fe7b78)
-  ![image](https://github.com/Vinay-000/Digital_Wellbeing/assets/56780725/c99fd2b7-0588-487f-a068-3a3b44af919c)
-  ![image](https://github.com/Vinay-000/Digital_Wellbeing/assets/56780725/d93f8141-d8c6-419d-a96c-22f613ee105b)
+![image](https://github.com/Vinay-000/Digital_Wellbeing/assets/56780725/e7f0f90d-a971-41cc-a877-951e50366716)
+![image](https://github.com/Vinay-000/Digital_Wellbeing/assets/56780725/86a1cec2-9f12-44c3-aae9-bbedf157d6db)
+![image](https://github.com/Vinay-000/Digital_Wellbeing/assets/56780725/65757817-0025-4fd9-afd2-531204bfbdf3)
+
+
+
 
 
 
